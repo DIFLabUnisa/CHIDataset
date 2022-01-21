@@ -1,0 +1,222 @@
+{
+ "0":{
+  "id":"IC_193",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":129,
+  "training":122
+ },
+ "1":{
+  "id":"IC_194",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":130,
+  "training":113
+ },
+ "2":{
+  "id":"IC_195",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":130,
+  "training":119
+ },
+ "3":{
+  "id":"IC_192",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":130,
+  "training":88
+ },
+ "4":{
+  "id":"IC_205",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":129,
+  "training":95
+ },
+ "5":{
+  "id":"IC_202",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":129,
+  "training":117
+ },
+ "6":{
+  "id":"IC_203",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":129,
+  "training":84
+ },
+ "7":{
+  "id":"IC_204",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":130,
+  "training":109
+ },
+ "8":{
+  "id":"IC_197",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":130,
+  "training":80
+ },
+ "9":{
+  "id":"IC_190",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":130,
+  "training":120
+ },
+ "10":{
+  "id":"IC_199",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":129,
+  "training":94
+ },
+ "11":{
+  "id":"IC_198",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":130,
+  "training":91
+ },
+ "12":{
+  "id":"IC_191",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":130,
+  "training":111
+ },
+ "13":{
+  "id":"IC_196",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":129,
+  "training":95
+ },
+ "14":{
+  "id":"IC_201",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":129,
+  "training":109
+ },
+ "15":{
+  "id":"IC_206",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":130,
+  "training":105
+ },
+ "16":{
+  "id":"IC_208",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":130,
+  "training":101
+ },
+ "17":{
+  "id":"IC_209",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":130,
+  "training":113
+ },
+ "18":{
+  "id":"IC_207",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":130,
+  "training":99
+ },
+ "19":{
+  "id":"IC_200",
+  "make":"NIKON CORPORATION",
+  "model":"NIKON D90",
+  "orientation":"Horizontal (normal)",
+  "width":2848,
+  "height":4288,
+  "color":"RGB",
+  "enrollment":129,
+  "training":90
+ }
+}

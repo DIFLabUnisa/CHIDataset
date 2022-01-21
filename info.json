@@ -7,6 +7,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":129,
   "training":122
  },
@@ -18,6 +19,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":130,
   "training":113
  },
@@ -29,6 +31,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":130,
   "training":119
  },
@@ -40,6 +43,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":130,
   "training":88
  },
@@ -51,6 +55,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":129,
   "training":95
  },
@@ -62,6 +67,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":129,
   "training":117
  },
@@ -73,6 +79,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":129,
   "training":84
  },
@@ -84,6 +91,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":130,
   "training":109
  },
@@ -95,6 +103,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":130,
   "training":80
  },
@@ -106,6 +115,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":130,
   "training":120
  },
@@ -117,6 +127,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":129,
   "training":94
  },
@@ -128,6 +139,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":130,
   "training":91
  },
@@ -139,6 +151,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":130,
   "training":111
  },
@@ -150,6 +163,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":129,
   "training":95
  },
@@ -161,6 +175,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":129,
   "training":109
  },
@@ -172,6 +187,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":130,
   "training":105
  },
@@ -183,6 +199,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":130,
   "training":101
  },
@@ -194,6 +211,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":130,
   "training":113
  },
@@ -205,6 +223,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":130,
   "training":99
  },
@@ -216,6 +235,7 @@
   "width":2848,
   "height":4288,
   "color":"RGB",
+  "color_space":"Adobe RGB",
   "enrollment":129,
   "training":90
  }

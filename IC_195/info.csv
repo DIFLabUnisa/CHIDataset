@@ -6,5 +6,6 @@ orientation,Horizontal (normal)
 width,2848
 height,4288
 color,RGB
+color_space,Adobe RGB
 enrollment,130
 training,119
